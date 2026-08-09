@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Generated episode data (reproducible — run data_generation/run_all.py)
+data/nominal/
+data/faulted/
+data/faulted_multi/
+data/unknown/
+
+# Keep labels, splits, and sanity plots
+!data/labels.csv
+!data/unknown_labels.csv
+!data/sanity_check.png
+!data/unknown_sanity_check.png
+!data/splits/

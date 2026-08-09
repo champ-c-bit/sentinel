@@ -1,0 +1,6 @@
+filename,fault_type,seed,n_steps,fault_params
+unknown_0000.csv,unknown,1050,95,"[{""onset"": 86, ""channel"": ""x_vel"", ""theta"": 0.124477, ""sigma"": 0.149484, ""dt"": 1.0}]"
+unknown_0001.csv,unknown,1051,335,"[{""onset"": 114, ""channel"": ""x_pos"", ""theta"": 0.099696, ""sigma"": 0.04533, ""dt"": 1.0}]"
+unknown_0002.csv,unknown,1052,213,"[{""onset"": 65, ""channel"": ""y_vel"", ""theta"": 0.170426, ""sigma"": 0.074128, ""dt"": 1.0}]"
+unknown_0003.csv,unknown,1053,216,"[{""onset"": 121, ""channel"": ""y_pos"", ""theta"": 0.126544, ""sigma"": 0.127691, ""dt"": 1.0}]"
+unknown_0004.csv,unknown,1054,96,"[{""onset"": 39, ""channel"": ""y_pos"", ""theta"": 0.25136, ""sigma"": 0.082551, ""dt"": 1.0}]"
